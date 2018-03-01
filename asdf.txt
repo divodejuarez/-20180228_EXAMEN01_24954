@@ -1,0 +1,3 @@
+En el diagram uml se puede observar una fusion entre el observer pattern y el decorator, primero el observer es para 
+notificar a los usuarios y el decorador se puede observar para los protocolos. De esa manera cada banco puede definir 
+su propio protocolo y la manera en la que da respuesta a las transferencias
